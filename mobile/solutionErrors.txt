@@ -1,0 +1,2 @@
+# hammerjs error in the 'expo install'
+git config --global url.git://github.com/.insteadOf https://github.com/
